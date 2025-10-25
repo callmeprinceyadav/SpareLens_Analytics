@@ -1,0 +1,17 @@
+Region,Sales,Profit,Items,Date,Category
+North,12000,3000,150,2023-01-01,Electronics
+South,8500,1200,90,2023-01-05,Apparel
+East,15000,4500,220,2023-02-10,Electronics
+West,9200,2800,110,2023-02-15,Home Goods
+North,11500,2900,130,2023-03-01,Apparel
+South,7800,1000,80,2023-03-05,Home Goods
+East,16000,5000,250,2023-04-10,Electronics
+West,8800,2500,100,2023-04-15,Apparel
+North,13200,3200,160,2023-05-01,Electronics
+South,9200,1500,95,2023-05-05,Home Goods
+East,14500,4200,200,2023-06-10,Electronics
+West,9800,2800,115,2023-06-15,Apparel
+North,12800,3100,155,2023-07-01,Electronics
+South,8500,1300,85,2023-07-05,Home Goods
+East,15200,4600,230,2023-08-10,Electronics
+West,9100,2600,105,2023-08-15,Apparel
